@@ -3,6 +3,3 @@ description: Sophomore @ UM CP. Double Majoring in Computer Science and German. 
 google_analytics: UA-73557121-1
 show_downloads: true
 theme: jekyll-theme-midnight
-
-gems:
-  - jekyll-mentions
