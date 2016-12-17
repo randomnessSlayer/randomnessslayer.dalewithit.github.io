@@ -1,1 +1,1 @@
-# randomnessslayer.github.com
+# randomnessslayer.github.io
