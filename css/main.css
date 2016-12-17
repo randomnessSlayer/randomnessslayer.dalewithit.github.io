@@ -2,7 +2,7 @@
   *,
   *:before,
   *:after {
-    background: transparent !important;
+    background: opaque !important;
     color: #fff !important;
     box-shadow: none !important;
     text-shadow: none !important;
