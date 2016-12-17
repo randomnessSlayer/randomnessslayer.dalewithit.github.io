@@ -3,7 +3,7 @@ layout: default
 title: Maximilian Dale
 google_analytics: UA-73557121-1
 ---
-### Welcome!
+# Welcome!
 **Various links to me:** [Facebook](https://www.facebook.com/MaximilianDale), [Instagram](https://www.instagram.com/maxldale/), [Twitter](https://twitter.com/randomnesSlayer), [Google*+*](https://plus.google.com/+MaxlDale/posts), and [GitHub](https://github.com/randomnessSlayer).
 
 ## Android Dev
@@ -11,6 +11,6 @@ About a year ago, I briefly began working on a rudimentary Android App that was 
 
 The premise is simple enough. Each game starts with two dots. Tapping a dot will cause the dot to disappear and will increment the score by one. Tapping the intersection between two dots \(when possible\) results in an additional point per extra dot tapped and spawns an extra dot. As the game progresses the dots shrink faster and faster. When all the dots are gone, the game is over and the high score is recorded.
 
-# More to Come Later
+### More to Come Later
 ___
 `©M. Dale 2016`
